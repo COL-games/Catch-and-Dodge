@@ -1,4 +1,4 @@
-# first-game
+# OUR FIRST GAME ONLINE NOW
 videogame: https://ollysss.github.io/first-game/
 # Catch & Dodge! 🚀
 
